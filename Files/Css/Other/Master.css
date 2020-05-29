@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: OpenSans-Light ;
+    border: solid 0px ;
+}
+  
+@font-face {
+    font-family: OpenSans-Light;
+    src: url(/Files/Fonts/OpenSans-Light.ttf);
+}
+  
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #e6e6e6;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #acacac;
+    border-radius: 5px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #999999;
+}
+  
